@@ -207,7 +207,7 @@ d3.csv("timesDataParallel2.csv", function(error, piers) {
 
   // Extract the list of dimensions and create a scale for each.
   x.domain(dimensions = d3.keys(piers[0]).filter(function(d) {
-    return d != "University" && d!= "year" && (y[d] = d3.scale.linear()
+    return d != "University" && d != "original_international" && d!= "year" && (y[d] = d3.scale.linear()
         .domain(d3.extent(piers, function(p) { return +p[d]; }))
         .range([h, 0]));
   }));
@@ -308,7 +308,7 @@ d3.csv("timesDataParallel2.csv", function(error, piers) {
 
   // Extract the list of dimensions and create a scale for each.
   x.domain(dimensions = d3.keys(piers[0]).filter(function(d) {
-    return d != "University" && d!= "year" && (y[d] = d3.scale.linear()
+    return d != "University" && d != "original_international" && d!= "year" && (y[d] = d3.scale.linear()
         .domain(d3.extent(piers, function(p) { return +p[d]; }))
         .range([h, 0]));
   }));
