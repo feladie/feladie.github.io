@@ -122,7 +122,7 @@ var x = d3.scale.ordinal().rangePoints([0, w], 1),
     dragging = {};
 
 var line = d3.svg.line(),
-    axis = d3.svg.axis().orient("left"),
+    axis = d3.svg.axis().tickFormat(d3.format("d")).orient("left"),
     background,
     foreground;
 
@@ -250,7 +250,7 @@ svg = d3.selectAll("body").append("svg")
   // .append("g")
     .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
 
-d3.csv("timesDataParallel2.csv", function(error, piers) {
+d3.csv("timesDataParallel3.csv", function(error, piers) {
 
   // Extract the list of dimensions and create a scale for each.
   x.domain(dimensions = d3.keys(piers[0]).filter(function(d) {
