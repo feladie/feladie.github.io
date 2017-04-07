@@ -148,12 +148,12 @@ d3.csv("timesDataParallel2.csv", function(error, piers) {
   // Filter data by year
   piers = piers.filter(function(row) {
     console.log(yr)
-    return row['year'] == yr;
+    return row['Year'] == yr;
   });
 
   // Extract the list of dimensions and create a scale for each.
   x.domain(dimensions = d3.keys(piers[0]).filter(function(d) {
-    return d != "University" && d != "original_international" && d!= "year" && (y[d] = d3.scale.linear()
+    return d != "University" && d != "original_international" && d!= "Year" && (y[d] = d3.scale.linear()
         .domain(d3.extent(piers, function(p) { return +p[d]; }))
         .range([h, 0]));
   }));
@@ -250,7 +250,7 @@ svg = d3.selectAll("body").append("svg")
   // .append("g")
     .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
 
-d3.csv("timesDataParallel3.csv", function(error, piers) {
+d3.csv("timesDataParallel2.csv", function(error, piers) {
 
   // Extract the list of dimensions and create a scale for each.
   x.domain(dimensions = d3.keys(piers[0]).filter(function(d) {
