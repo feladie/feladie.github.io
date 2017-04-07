@@ -29,7 +29,7 @@ Hong Kong Polytechnic University,30.1,62.5,25.9,0.26,26,2012
 Kyushu University,46.8,19.5,6.7,0.08,8,2012
 Nanjing University,40.9,25,13.3,0.1,10,2012
 Ruhr University Bochum,34.9,46.6,46.3,0.13,13,2012
-University of Hawai_Ü_i at M‹noa,31.3,34.6,,,0,2012
+University of Hawai_†_i at MÜnoa,31.3,34.6,,,0,2012
 University of Tsukuba,37.2,27.2,12.6,0.16,16,2012
 Virginia Polytechnic Institute and State University,36.9,25.1,18.6,0.1,10,2012
 Wayne State University,34.7,24.6,10.7,0.07,7,2012
@@ -62,7 +62,7 @@ Lomonosov Moscow State University,63.5,50.3,7.7,0.2,20,2013
 Middle East Technical University,50.8,28,22.2,0.07,7,2013
 Nagoya University,44.2,25.3,7.9,0.1,10,2013
 Northeastern University,40.1,41,15.1,0.26,26,2013
-Queen_Ü_s University,39.5,58,22.1,0.1,10,2013
+Queen_†_s University,39.5,58,22.1,0.1,10,2013
 Sungkyunkwan University (SKKU),47.1,30.9,20.3,0.09,9,2013
 Tilburg University,38.2,56.6,22.4,0.1,10,2013
 University of Barcelona,32.5,46,12.2,0.1,10,2013
@@ -105,7 +105,7 @@ University of Milan,36.3,35.7,24.3,0.05,5,2013
 University of M_nster,35.9,43.2,46.1,0.08,8,2013
 University of Oregon,31.5,30.2,20.2,0.11,11,2013
 Vienna University of Technology,44.8,71.4,52,0.27,27,2013
-Bo‹Žazi_i University,35.4,36.7,25,0.07,7,2013
+BoÜ_azi_i University,35.4,36.7,25,0.07,7,2013
 Colorado State University,30.8,29.8,19,0.05,5,2013
 Drexel University,34.7,36.6,10.8,0.18,18,2013
 Istanbul Technical University,34.9,20.8,16,0.05,5,2013
@@ -160,7 +160,7 @@ William & Mary,37.2,26,11.8,0.07,7,2014
 Autonomous University of Barcelona,30.6,48.3,12.3,0.1,10,2014
 Georgia Health Sciences University,47.2,30.8,,,0,2014
 Lomonosov Moscow State University,54.4,55.7,7.7,0.2,20,2014
-Queen_Ü_s University,36.2,59.8,22.1,0.1,10,2014
+Queen_†_s University,36.2,59.8,22.1,0.1,10,2014
 Renmin University of China,35.5,48.4,12.7,0.06,6,2014
 Technical University of Darmstadt,37.6,66.3,53.6,0.18,18,2014
 Tilburg University,32,57.6,22.4,0.1,10,2014
@@ -238,11 +238,11 @@ Vienna University of Technology,43.3,75.9,52,0.27,27,2015
 Aalto University,31.8,59.4,24.2,0.17,17,2015
 Nanjing University,34.6,50.2,13.3,0.1,10,2015
 National Tsing Hua University,39.4,24.8,13.5,0.05,5,2015
-Queen_Ü_s University,37.3,55.4,22.1,0.1,10,2015
-Queen_Ü_s University Belfast,30.1,88.6,17.9,0.3,30,2015
+Queen_†_s University,37.3,55.4,22.1,0.1,10,2015
+Queen_†_s University Belfast,30.1,88.6,17.9,0.3,30,2015
 Technical University of Darmstadt,36.9,59.6,53.6,0.18,18,2015
 University of Bremen,33.9,53,25.6,0.11,11,2015
-University of Hawai_Ü_i at M‹noa,35.1,59.4,,,0,2015
+University of Hawai_†_i at MÜnoa,35.1,59.4,,,0,2015
 University of M_nster,30.6,48.2,46.1,0.08,8,2015
 University of Salento,32.3,40.3,58.4,0.01,1,2015
 University of Waterloo,30.9,63.1,24.2,0.14,14,2015
@@ -303,7 +303,7 @@ University of Fribourg,32.3,87.4,46.9,0.19,19,2016
 Fudan University,44.7,38.6,12.2,0.11,11,2016
 George Washington University,44.7,48.1,12,0.16,16,2016
 Goethe University Frankfurt,35.8,60.2,9.3,0.15,15,2016
-University of Hawai_Ü_i at M‹noa,32,63.4,,,0,2016
+University of Hawai_†_i at MÜnoa,32,63.4,,,0,2016
 University of Illinois at Chicago,40.9,58.1,9.2,0.17,17,2016
 Indiana University,43,41.2,13.6,0.13,13,2016
 University of Iowa,41,32.3,11.6,0.11,11,2016
@@ -345,7 +345,7 @@ National Tsing Hua University,37.7,23.2,13.5,0.05,5,2016
 North Carolina State University,36.1,49,13.6,0.11,11,2016
 Oregon State University,30.6,42.8,16.8,0.09,9,2016
 Osaka University,46.8,26.6,7.8,0.09,9,2016
-Queen_Ü_s University,35.8,61.6,22.1,0.1,10,2016
+Queen_†_s University,35.8,61.6,22.1,0.1,10,2016
 Rensselaer Polytechnic Institute,30.4,40.3,15,0.16,16,2016
 Ruhr University Bochum,32.8,51.7,46.3,0.13,13,2016
 Saint Louis University,36.9,26.6,5.8,0.08,8,2016
@@ -387,7 +387,7 @@ Loughborough University,31.2,72.9,15.9,0.22,22,2016
 University of Missouri,31.2,31,14.1,0.05,5,2016
 University of Montana,30.8,21.5,15.2,0.03,3,2016
 University of Nebraska Medical Center,37,37.7,2.6,0.08,8,2016
-Panth©on-Sorbonne University _Ü_ Paris 1,53.2,47.6,34.3,0.2,20,2016
+Panth©on-Sorbonne University _†_ Paris 1,53.2,47.6,34.3,0.2,20,2016
 University of South Carolina,31.1,24.5,16.3,0.01,1,2016
 State University of Campinas,44.6,21.1,15.3,0.03,3,2016
 Sun Yat-sen University,31.9,37,16.6,0.08,8,2016
@@ -431,6 +431,6 @@ Federal University of Rio Grande do Sul,32.6,18.9,14.8,0.01,1,2016
 Federal University of Vi_osa,39.7,15,11.4,0.03,3,2016
 Juntendo University,32.3,16.7,3.7,0.01,1,2016
 Moscow Institute of Physics and Technology,34.3,44.4,7,0.12,12,2016
-Paris-Sorbonne University _Ü_ Paris 4,31.1,44.2,27.4,0.21,21,2016
+Paris-Sorbonne University _†_ Paris 4,31.1,44.2,27.4,0.21,21,2016
 Savitribai Phule Pune University,38.3,17.3,14.6,0.03,3,2016
 Tomsk State University,34.8,36.9,9.9,0.12,12,2016
